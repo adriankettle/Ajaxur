@@ -1,0 +1,11 @@
+*{
+  margin: 0px;
+  font-family: sans-serif;
+}
+
+#text{
+  background-color: coral;
+  color: white;
+  border-radius: 8px;
+  border-color: solid black;
+}
